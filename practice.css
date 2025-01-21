@@ -1,0 +1,30 @@
+#main-title {
+    text-align: center;
+    color:#8c00ff86;
+    font-size: 60px;
+}
+.info-paragraf {
+    font-size: 45px;
+    text-align:center;
+    color: hotpink;
+}
+.item-list{
+    text-decoration:line-through;
+    font-size: 30px;
+    
+}
+.info-paragraf1{
+    text-align: center;
+    background-color: coral;
+    font-size: 30px;
+    color:rgb(255, 251, 0)
+}
+.list-item{
+    color: red;
+}
+.special-item{
+    color: green;
+}
+.special-item1{
+    color: blue;
+}
